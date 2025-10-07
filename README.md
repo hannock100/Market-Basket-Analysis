@@ -1,3 +1,6 @@
+<img width="1722" height="368" alt="image" src="https://github.com/user-attachments/assets/0cd8c985-2117-4284-a3a7-0d986c3e93f3" />
+
+
 # Market-Basket-Analysis
 A data mining project using association rule learning to identify frequent item-sets and customer purchase patterns
 
